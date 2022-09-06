@@ -30,7 +30,7 @@ html{
     transition-timing-function: ease-in;
     transition: all 0.25s;
 }
-.nav__black{
+.nav_black{
     background-color: #111111;
 }
 .banner{
